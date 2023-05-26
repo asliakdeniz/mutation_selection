@@ -4,9 +4,13 @@ Simulation code used in Akdeniz and van Veelen (2023)
 Matlab code used for the ultimatum game simulations in "Evolution and the Ultimatum Game" by Akdeniz and van Veelen. The model settings are described in Section 2 of the paper. The four Matlab files in this directory are listed and explained below.
 
 Global_Co: Ultimatum game with global mutations
+
 Local_Co: Ultimatum game with local and co-occurring mutations
+
 Local_NotCo: Ultimatum game with local and independent mutations
+
 Local_NotCo_Partial: Ultimatum game with local and independent mutations, and with (partial) observability
+
 
 The code can be run directly on Matlab. The abstract of the paper can be found below.
 
