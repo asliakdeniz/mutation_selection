@@ -21,6 +21,6 @@ The code can be run directly on Matlab.
 Data:
 Data.zip file contains the data used in "Evolution and the Ultimatum Game" by Akdeniz and van Veelen (2023). 
 
-For the direct-response method, the data is from the ultimatum game experiments by: Andersen et al. (2011); Barmettler et al. (2012); Bornstein and Yaniv (1998); Cameron (1999); Carpenter et al., 2005a, Carpenter et al., 2005b; TA Croson (1996); Forsythe et al. (1994); Lightner et al. (2017); Ruffle (1998); Slonim and Roth (1998).
+For the direct-response method, the data is from the ultimatum game experiments by: Andersen et al. (2011); Barmettler et al. (2012); Bornstein and Yaniv (1998); Cameron (1999); Carpenter et al., 2005a, Carpenter et al., 2005b; Croson (1996); Forsythe et al. (1994); Lightner et al. (2017); Ruffle (1998); Slonim and Roth (1998); Tomlin (2015).
 
 For the strategy method, the data is from the ultimatum game experiments by: Bader et al. (2021); Bahry and Wilson (2006); Benndorf et al. (2017); Soo Hong Chew et al. (2013); Demiral and Mollerstrom (2020); Inaba et al. (2018); Keuschnigg et al. (2016); Peysakhovich et al. (2014). 
